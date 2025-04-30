@@ -1,0 +1,1 @@
+this project aims to create a task that given an image, find it (which can be exact match or scaled) and return the bbox.

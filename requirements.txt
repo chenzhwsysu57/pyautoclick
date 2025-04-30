@@ -1,0 +1,9 @@
+pyautogui
+pandas
+matplotlib
+opencv-python
+numpy
+tqdm
+# pytorch
+# torchvision
+# torchaudio
