@@ -1,0 +1,1 @@
+this folder tends to browse social media based on UI and save all saw content.
